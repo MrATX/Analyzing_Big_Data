@@ -2,4 +2,4 @@
 Term project using Python to analyze correlation between video game characteristics and sales efficacy across five macro market segments. Completed during my time as an undergrad at University of Oregon.
 
 
- <a href="https://mratx.github.io/Analyzing_Big_Data" target="__blank"><h2>Checkout the project report here</h2></a>
+ <a href="https://mratx.github.io/Analyzing_Big_Data" target="_blank"><h2>Checkout the project report here</h2></a>
